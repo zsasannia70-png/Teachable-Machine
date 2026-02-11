@@ -2,6 +2,8 @@
 Supervised Learning
 To create a professional GitHub README for your model, I have drafted a template below.
 
+https://teachablemachine.withgoogle.com/models/sPza353fxT/
+
 Since the Teachable Machine link itself is a "hosted" version (which often doesn't show the class names until you run it), I have used placeholders like `[Class 1]` and `[Class 2]`. **Please replace the bracketed text with the actual labels you trained (e.g., "Dog", "Cat", "Mask On", "Mask Off").**
 
 ---
