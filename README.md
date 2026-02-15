@@ -8,7 +8,7 @@ Since the Teachable Machine link itself is a "hosted" version (which often doesn
 
 ---
 
-# [Project Name: e.g., Image Classifier Model]
+# [Teachable Machine_ Bottle, Pen, Blank]
 
 A custom machine learning model trained using **Google Teachable Machine**. This model is designed to recognize and classify [insert what it classifies, e.g., hand gestures / objects / facial expressions] in real-time using a webcam or image input.
 
@@ -22,9 +22,19 @@ You can test the live model here:
 
 This model was trained using a supervised learning approach. It categorizes inputs into the following classes:
 
-* **Class 1:** [Name, e.g., Thumb Up]
-* **Class 2:** [Name, e.g., Thumb Down]
-* **Class 3:** [Name, e.g., Neutral]
+* **Bottle:** 
+* **Pen:** 
+* **Blank:**
+
+## Sample Pictures
+
+<img width="373" height="748" alt="image" src="https://github.com/user-attachments/assets/6799b73d-07a1-4499-8e99-2ff64287452b" />
+
+<img width="363" height="737" alt="image" src="https://github.com/user-attachments/assets/a2e4e8d3-515c-4b3c-a4db-6d8ef0126759" />
+
+<img width="377" height="737" alt="image" src="https://github.com/user-attachments/assets/67dc3b10-bfc3-40a3-90a3-420f97efca92" />
+
+
 
 ## 🛠 Usage
 
