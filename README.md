@@ -1,5 +1,8 @@
 # Teachable-Machine
 Supervised Learning
+link to the model
+https://teachablemachine.withgoogle.com/models/xE6Jap_mJ/
+
 I used Teachable Machine to train a custom image classification model. The goal of this project was to teach a computer to distinguish between me and common desk objects like pens and bottles.
 
 🚀 Try It Live!
