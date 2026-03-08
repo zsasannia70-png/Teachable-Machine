@@ -1,7 +1,6 @@
 # Teachable-Machine
 Supervised Learning
 link to the model
-https://teachablemachine.withgoogle.com/models/xE6Jap_mJ/
 
 I used Teachable Machine to train a custom image classification model. The goal of this project was to teach a computer to distinguish between me and common desk objects like pens and bottles.
 
@@ -11,7 +10,11 @@ https://teachablemachine.withgoogle.com/models/xE6Jap_mJ/
 📸 Proof of Concept
 Here are screenshot of the AI identifying me with high confidence:
 
-<img width="377" height="757" alt="pen" src="https://github.com/user-attachments/assets/10a7844b-05b6-4fd3-88cc-8318fad2d00f" /> 
+<img width="377" height="757" alt="pen" src="https://github.com/user-attachments/assets/96a3c7f8-1f66-4bc8-906c-6df92ee494c8" />
+<img width="388" height="684" alt="bottle" src="https://github.com/user-attachments/assets/8d840d76-dce2-4060-a879-b856d6e140c0" />
+<img width="372" height="750" alt="image" src="https://github.com/user-attachments/assets/584d2945-ab4b-48c7-8348-f06ea1901b2d" />
+
+ 
 
 🧠 How it Works
 I trained the AI using 3 distinct classes:
