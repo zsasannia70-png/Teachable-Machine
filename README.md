@@ -6,19 +6,17 @@ https://teachablemachine.withgoogle.com/models/xE6Jap_mJ/
 I used Teachable Machine to train a custom image classification model. The goal of this project was to teach a computer to distinguish between me and common desk objects like pens and bottles.
 
 🚀 Try It Live!
-You can test this model yourself using your own webcam. No setup required: 👉 [Here]
+https://teachablemachine.withgoogle.com/models/xE6Jap_mJ/
 
 📸 Proof of Concept
 Here are screenshot of the AI identifying me with high confidence:
 
-Screenshot 2026-02-07 213042 Screenshot 2026-02-07 213136
-🧠 How it Works
-I trained the AI using four distinct classes:
+<img width="377" height="757" alt="pen" src="https://github.com/user-attachments/assets/10a7844b-05b6-4fd3-88cc-8318fad2d00f" /> 
 
-Usama: Recognizes my face/presence in the frame.
-Bottle: Identifies when a water bottle is held up.
-Pen: Identifies when a pen is shown to the camera.
-Nothing: A "background" class for when no objects are present.
+🧠 How it Works
+I trained the AI using 3 distinct classes:
+
+
 🛠️ Tools Used
 Teachable Machine - Used for gathering data and training the neural network.
 GitHub - Used to host this documentation and share the project with the world.
